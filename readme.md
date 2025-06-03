@@ -4,7 +4,7 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🗓️ Date de création
 
-    Janvier 2024
+> Janvier 2024
 
 ### 🏫 Réalisé avec
 
