@@ -8,15 +8,15 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🏫 Réalisé avec
 
-🎓 AFPA - Formation Développeur Web
+> AFPA - Formation Développeur Web
 
 ### 🔗 Lien GitHub
 
-🔗 [Voir le code sur GitHub](https://github.com/GuillaumeReb/Galerie-des-animaux)
+> [Voir le code sur GitHub](https://github.com/GuillaumeReb/Galerie-des-animaux)
 
 ### 🚀 Démo en ligne
 
-🌐 [Voir la démo en ligne](https://guillaume-rebourgeon.fr/galerie/index.html)
+> [Voir la démo en ligne](https://guillaume-rebourgeon.fr/galerie/index.html)
 
 ### 🛠️ Technologies utilisées
 
@@ -24,8 +24,8 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 📖 Description du projet
 
-Ce projet consiste à créer une galerie d’images d’animaux, présentée de manière soignée avec des effets visuels au survol (hover).
-L’objectif principal était de travailler la mise en page, le responsive design, ainsi que les interactions utilisateur via CSS.
+> Ce projet consiste à créer une galerie d’images d’animaux, présentée de manière soignée avec des effets visuels au survol (hover).
+> L’objectif principal était de travailler la mise en page, le responsive design, ainsi que les interactions utilisateur via CSS.
 
 ### 🎯 Compétences développées
 
@@ -36,5 +36,5 @@ L’objectif principal était de travailler la mise en page, le responsive desig
 
 ### 💡 Retour personnel
 
-Ce projet, bien que simple, m’a permis de consolider mes acquis en HTML et CSS.
-Il m’a aussi sensibilisé à l’importance de l’esthétique et de l’interactivité dans les interfaces web.
+> Ce projet, bien que simple, m’a permis de consolider mes acquis en HTML et CSS.
+> Il m’a aussi sensibilisé à l’importance de l’esthétique et de l’interactivité dans les interfaces web.
