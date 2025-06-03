@@ -1,35 +1,43 @@
 Projet réalisé durant ma formation à l'AFPA en 2024.
 
-## 📌 À Propos du Projet Galerie
+## 📌 À Propos du Projet Galerie des Animaux
 
 ### 🗓️ Date de création
 
-📅 [Janvier / 2024]
+Janvier 2024
 
 ### 🏫 Réalisé avec
 
-🎓 AFPA
+🎓 AFPA - Formation Développeur Web
 
 ### 🔗 Lien GitHub
 
 🔗 [Voir le code sur GitHub](https://github.com/GuillaumeReb/Galerie-des-animaux)
 
-### 🛠️ Technologies utilisées
-
-- **Frontend :** [HTML, CSS]
-
 ### 🚀 Démo en ligne
 
 🌐 [Voir la démo en ligne](https://guillaume-rebourgeon.fr/galerie/index.html)
 
+### 🛠️ Technologies utilisées
+
+- **Frontend :** [HTML, CSS]
+
 ### 📖 Description du projet
 
-Un court paragraphe qui explique :
+Ce projet consiste à créer une galerie d’images d’animaux, présentée de manière soignée avec des effets visuels au survol (hover).
+L’objectif principal était de travailler la mise en page, le responsive design, ainsi que les interactions utilisateur via CSS.
 
-- L’objectif du projet
-  Réaliser une galerie de photos d'animaux avec un effet au hover.
+### 🎯 Compétences développées
 
-### 🎯 Ce que j’ai appris
+Approfondissement des bases du CSS (flexbox, effets visuels, transitions)
 
-Quelques points sur les compétences ou concepts que j'ai développés pendant le projet.
-Ce projet ma permis de mieux comprendre le fonctionnement du CSS.
+Meilleure compréhension de la structuration HTML sémantique
+
+Mise en pratique du responsive design
+
+Utilisation des effets au survol pour rendre l’interface plus dynamique
+
+### 💡 Retour personnel
+
+Ce projet, bien que simple, m’a permis de consolider mes acquis en HTML et CSS.
+Il m’a aussi sensibilisé à l’importance de l’esthétique et de l’interactivité dans les interfaces web.
