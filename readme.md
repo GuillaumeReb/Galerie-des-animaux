@@ -4,7 +4,7 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🗓️ Date de création
 
-Janvier 2024
+    Janvier 2024
 
 ### 🏫 Réalisé avec
 
@@ -29,13 +29,10 @@ L’objectif principal était de travailler la mise en page, le responsive desig
 
 ### 🎯 Compétences développées
 
-Approfondissement des bases du CSS (flexbox, effets visuels, transitions)
-
-Meilleure compréhension de la structuration HTML sémantique
-
-Mise en pratique du responsive design
-
-Utilisation des effets au survol pour rendre l’interface plus dynamique
+- Approfondissement des bases du CSS (flexbox, effets visuels, transitions)
+- Meilleure compréhension de la structuration HTML sémantique
+- Mise en pratique du responsive design
+- Utilisation des effets au survol pour rendre l’interface plus dynamique
 
 ### 💡 Retour personnel
 
