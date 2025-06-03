@@ -12,7 +12,7 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🔗 Lien GitHub
 
-🔗 Voir le code sur GitHub (https://github.com/GuillaumeReb/Galerie-des-animaux)
+[🔗 Voir le code sur GitHub] (https://github.com/GuillaumeReb/Galerie-des-animaux)
 
 ### 🛠️ Technologies utilisées
 
@@ -20,7 +20,7 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🚀 Démo en ligne
 
-🔗 [Voir le projet en ligne](https://guillaume-rebourgeon.fr/galerie/index.html)
+[🌐 Voir la démo en ligne](https://guillaume-rebourgeon.fr/galerie/index.html)
 
 ### 📖 Description du projet
 
