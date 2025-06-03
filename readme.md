@@ -1,5 +1,3 @@
-Projet réalisé durant ma formation à l'AFPA en 2024.
-
 ## 📌 À Propos du Projet Galerie des Animaux
 
 ### 🗓️ Date de création
