@@ -20,7 +20,7 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🛠️ Technologies utilisées
 
-- **Frontend :** [HTML, CSS]
+- **Frontend :** HTML, CSS
 
 ### 📖 Description du projet
 
@@ -29,10 +29,9 @@ Projet réalisé durant ma formation à l'AFPA en 2024.
 
 ### 🎯 Compétences développées
 
-- Approfondissement des bases du CSS (flexbox, effets visuels, transitions)
-- Meilleure compréhension de la structuration HTML sémantique
-- Mise en pratique du responsive design
-- Utilisation des effets au survol pour rendre l’interface plus dynamique
+- Approfondissement des bases du CSS (flexbox, effets visuels, transitions).
+- Meilleure compréhension de la structuration HTML sémantique.
+- Utilisation des effets au survol pour rendre l’interface plus dynamique.
 
 ### 💡 Retour personnel
 
